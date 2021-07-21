@@ -1,0 +1,4 @@
+PRINT("Idle").
+WAIT 30.
+PRINT("CHECKING FOR UPDATES").
+RUNPATH("boot.ks").
